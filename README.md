@@ -2,11 +2,6 @@
 # GenAI Solutions Portfolio<br><br>Hi there! I am Rachel, working in AI with background in Financial Services to bridge these together.<br><br>👾 I specialise in Responsible AI, AI Optimisation Strategies and Data Governance practices<br><br>🤖 I've experienced and learnt Data Management and A/B Experiments along with AI/ML Platforms like Clouds (Microsoft Azure, Snowflake Data Cloud) to manage, evaluate AI<br><br>👩🏻‍🎓 Throughout my Studies, I've read around Policy Implementation and Regulations around AI (EU AI Act/GDPR/ISO Code of Ethics & Conduct), Business Strategies with Data Mining Practices<br><br>🧚‍♀️ Interesting Facts: I'm from Seoul, Korea but I spent my childhood in Singapore before going to the UK where I finished my degree and continuing with career.<br><br><br>💼 You can reach me through... Email: doheerachellee@gmail.com <br>
 
 
-# Links to Projects/Strategies
-
-# ⚡️ Link to A/B Experiment and Trade-Offs Strategies: https://github.com/users/doheerachellee/projects/4
-
-# ⚡️ Link to AI Resolution Enhancement Frameworks: https://github.com/users/doheerachellee/projects/3
 
 
 # 💻 Tech Stack:
