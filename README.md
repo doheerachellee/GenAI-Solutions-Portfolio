@@ -4,7 +4,7 @@
 # 💫 About Me:
 👾 I specialise in Responsible AI and AI Optimisation Strategy practices<br><br>🤖 I built initial experience in Deutsche Bank, Shinhan BNP Paribas Asset Management before moving to AI Startup and worked on A/B Experiments with AI Red Teaming sector. Further, I invested my time in studying AI/ML Platforms like Clouds (Microsoft Azure, Snowflake Data Cloud) to manage, evaluate AI<br><br>👩🏻‍🎓 Throughout my Studies, I've read around Public Policy Implementation with Regulations around Tech (GDPR/ISO Code of Ethics & Conduct), Business Strategies and Data Mining Practices<br><br>🧚‍♀️ Interesting Facts: I spent my childhood in Singapore and now in the UK where I finished my degree and continuing with career.<br><br>
 
-# ⚪ Access Links to GenAI Projects & Strategies ⚪
+# ⚪ Shortcut Access to GenAI Projects & Strategies ⚪
 # 🗝️ [Issue #1: AI Governance & Trade-Offs](https://github.com/doheerachellee/GenAI-Solutions-Portfolio/issues/1)
 # 🗝️ [Issue #2: A/B Experiments & Balancing Time-to-Market with More](https://github.com/doheerachellee/GenAI-Solutions-Portfolio/issues/2)
 # 🗝️ [Issue #3: Prompt Engineering and Token Usage Optimisation](https://github.com/doheerachellee/GenAI-Solutions-Portfolio/issues/3)
